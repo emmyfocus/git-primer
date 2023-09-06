@@ -7,6 +7,4 @@ Exercise
 
 
 
-This Deliverables are:
- 1. Everyone in the group to create a remote repository called: git-primer
- 2.  
+Explore is the best!
